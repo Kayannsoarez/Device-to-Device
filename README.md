@@ -1,2 +1,2 @@
-# Device-to-Device-
+# Device-to-Device
 Projeto D2D
